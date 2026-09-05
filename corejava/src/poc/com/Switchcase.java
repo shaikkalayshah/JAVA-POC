@@ -370,4 +370,4 @@ public class Switchcase {
 
 	        sc.close();
 	    }
-	}}
+	}
